@@ -2,16 +2,16 @@
 
  # IMPORTANT  LAB FOR RUN  THIS ALL PROGRAMMING
 
-import pyttsx3 #pip install pyttsx3
+1:- import pyttsx3 #pip install pyttsx3
 
-import speech_recognition as sr #pip install speechRecognition
+2:- import speech_recognition as sr #pip install speechRecognition
 
-import datetime
+3:- import datetime
 
-import wikipedia #pip install wikipedia
+4:- import wikipedia #pip install wikipedia
 
-import webbrowser
+5:- import webbrowser
 
-import os
+6:- import os
 
-import smtplib
+7:- import smtplib
